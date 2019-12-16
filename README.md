@@ -1,4 +1,4 @@
-# Simple Recommender System with Latent Factor Model _ Tao
+# Simple Recommender System with Latent Factor Model
 ### The content of this notebook is based on materials and knowledge from following source:
 * Dataset: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz
 * Coursera: Machine Learning: Regression
